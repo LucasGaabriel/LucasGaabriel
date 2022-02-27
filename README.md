@@ -4,12 +4,14 @@ Eu sou Lucas Gabriel
 
 Estudante de Ciência da Computação | UFES
 
-<div>
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasgaabriel&show_icons=true&theme=dark"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgaabriel&layout=compact&theme=dark"/>
-  
-</div>
+<!--
+  <div>
+
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasgaabriel&show_icons=true&theme=dark"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgaabriel&layout=compact&theme=dark"/>
+
+  </div>
+-->
 
 ### ✅ Let's get connected:
 
