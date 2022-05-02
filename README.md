@@ -1,11 +1,10 @@
-## 👨 Hi!
+## 👨 Hi, I'm Lucas Gabriel!
 
 <ul>
-  <li>Eu sou <b>Lucas Gabriel</b>!</li>
-  <li>Estudante de <b>Ciência da Computação</b> | UFES</li>
+  <li><a href="https://informatica.ufes.br/">Computer Science</a> Student at <a href="https://www.ufes.br/">UFES</a></li>
 </ul>
 
-### ✅ Let's get connected:
+### 🌎 Let's get connected:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-go-costa/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaass_gaabriel)
@@ -14,16 +13,7 @@
 ### 🛠️ Technologies and Tools I'm studying:
 
 <div>
-  <img align="center" alt="Lucas-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="center" alt="Lucas-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" alt="Lucas-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Lucas-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Lucas-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="img-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align="center" alt="image-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="image-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </div>
-
-<!--
-<div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasgaabriel&show_icons=true&theme=dark"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgaabriel&layout=compact&theme=dark"/>
-</div>
--->
