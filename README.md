@@ -1,8 +1,7 @@
 ## 👨 Hi, I'm Lucas Gabriel!
 
-<ul>
-  <li><a href="https://informatica.ufes.br/">Computer Science</a> Student at <a href="https://www.ufes.br/">UFES</a></li>
-</ul>
+- <a href="https://informatica.ufes.br/">Computer Science</a> Student at <a href="https://www.ufes.br/">UFES</a>
+
 
 ### 🌎 Let's get connected:
 
