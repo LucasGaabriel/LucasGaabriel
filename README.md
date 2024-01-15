@@ -1,6 +1,6 @@
-## 👨 Hi, I'm Lucas Gabriel!
+## 👨 Hi, I am Lucas Gabriel :D
 
-- <a href="https://informatica.ufes.br/">Computer Science</a> Student at <a href="https://www.ufes.br/">UFES</a>
+I am a <a href="https://informatica.ufes.br/">Computer Science</a> student at <a href="https://www.ufes.br/">Federal University of Espirito Santo</a>
 
 ### 🌎 Let's get connected:
 
@@ -8,6 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_go_costa)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lucas_go_costa)
 
+<!--
 ### 🛠️ Technologies and Tools I'm studying:
 
 <div>
@@ -16,3 +17,4 @@
   <img align="center" alt="image-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
   <img align="center" alt="image-python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </div>
+-->
