@@ -24,19 +24,12 @@
 ## 📧 Contato
 
 <div>
-  <a href="mailto:lucasgabriiel.oliveira@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/lucas-go-costa" target="_blank">
-    <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white">
-  </a>
-  
-  <a href="https://www.instagram.com/lucas_go_costa" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white">
-  </a>
-  
-  <a href="https://wa.me/5527996185056" target="_blank">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white">
-  </a>   
+  <a href="mailto:lucasgabriiel.oliveira@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/lucas-go-costa">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/lucas_go_costa">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://wa.me/5527996185056">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </div>
