@@ -28,13 +28,6 @@
   </a>
 </div>
 
-## 📚 Próximos estudos...
-
-<div>
-  <img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-</div>
-
 ## 📧 Contato
 
 <div>
