@@ -3,7 +3,7 @@
   # Olá! Eu sou o Lucas 👋
 
   Sou estudante de <a href="https://informatica.ufes.br/">Ciência da Computação</a> na <a href="https://www.ufes.br/">Universidade Federal do Espírito Santo</a>
-  
+<!--
   ## 💻 Ferramentas e Tecnologias
   
   <p>
@@ -11,7 +11,7 @@
       <img src="https://skillicons.dev/icons?i=py,js,html,css,c,cpp,cs,java" />
     </a>
   </p>
-  
+-->
   ## 📊 GitHub Stats
   
   <p>
