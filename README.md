@@ -1,8 +1,20 @@
 <div align="left">
 
-  # Olá! Eu sou o Lucas 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&duration=2500&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+Lucas!;Bem-vindo+ao+meu+GitHub!+:%29)](https://git.io/typing-svg)
 
-  Sou estudante de <a href="https://informatica.ufes.br/">Ciência da Computação</a> na <a href="https://www.ufes.br/">Universidade Federal do Espírito Santo</a>
+<div align="center">
+  <a href="mailto:lucasgabriiel.oliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/lucas-go-costa"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/lucas_go_costa"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://wa.me/5527996185056"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+</div>
+
+---
+
+<!--
+ Sou estudante de <a href="https://informatica.ufes.br/">Ciência da Computação</a> na <a href="https://www.ufes.br/">Universidade Federal do Espírito Santo</a>
+-->
+ 
 <!--
   ## 💻 Ferramentas e Tecnologias
   
@@ -12,7 +24,14 @@
     </a>
   </p>
 -->
-  ## 📊 GitHub Stats
+
+### 🧔 Sobre mim
+- 🎓 **Estudante** de [Ciência da Computação](https://informatica.ufes.br/) na [UFES](https://www.ufes.br/)
+- 💻 **Desenvolvedor** no [LabES](https://labes.inf.ufes.br/) no Projeto [SigAMAES](https://labes.inf.ufes.br/projetos/sigamaes/)
+
+---
+
+### 📊 GitHub Stats
   
   <p>
     <a href="https://github.com/LucasGaabriel"> 
@@ -28,13 +47,8 @@
   </p> 
 -->
 
-  ## 📧 Contato
-  
-  <div>
-    <a href="mailto:lucasgabriiel.oliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-    <a href="https://www.linkedin.com/in/lucas-go-costa"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://www.instagram.com/lucas_go_costa"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://wa.me/5527996185056"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  </div>
+---
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=LucasGaabriel&countColor=%231a64a7)
 
 </div>
